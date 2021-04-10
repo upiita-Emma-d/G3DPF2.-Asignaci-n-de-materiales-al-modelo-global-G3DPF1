@@ -1,0 +1,13 @@
+1. Retomar el plano y el archivo Blender Modelo General Centro Historico.blend proporcionados en G3DPF1.
+2. En la carpeta https://drive.google.com/drive/folders/1CiVjEFPujKssQRyFXnwhS1UK2KIjbBMt?usp=sharing se colocarán los modelos recibidos.
+3. Integrar los modelos recibidos en el archivo Modelo General Centro historico.blend, clasificados por colección en el arbol de colección de escenas. Si se siguieron las instrucciones, cada edificio deberá colocarse en el lugar adecuado con la escala correcta.
+***Ningún equipo estará obligado a integrar los modelos que excedan 50MB, los que sobrepasen esta especificación pueden omitirse*** 
+4. Corregir las deficiencias de nombres y notación que pudieron heredar de los autores originales. Recuerda que se estableció el formato MXX.YYY.NOMBRE (Donde XX representa el numero de equipo, YYY el numero de malla a tres digitos y NOMBRE el nombre de la malla en MAYUSCULAS que ya queda a definición del equipo.
+6. Modelar las calles, plaza de la constitución, bandera monumental y asta. Integrarlos al modelo con el formato mencionado anteriormente a la colección que originalmente correspondió al equipo. Se permite usar toda función de blender vista en clase, excepto los modificadores de subdivisión de superficie.
+5. Acordar en el equipo la configuración de una paleta de materiales (Solidos, no texturas ni imagen) a usar para lograr la completa aproximación visual del Centro Histórico en relación a su aspecto actual. Listar todos los colores bajo el formato MXXX.YYY NOMBRE. Donde XXX representa la numeración de la primera clasificación de la familia de color, YYY la segunda clasificación de familia de color y NOMBRE la etiqueta que se consideró asignar (TECHOS, MADERA, PAREDES, CONCRETO, etc). El numero de materiales y subfamilias queda definido por los desarrolladores, no obstante no deberían existir clasificaciones distintas para una sola codificación de color de material.
+6. Asignación de color a todas las caras del modelo.
+7.Renombarar el archivo resultante como G3DPF2 XX.blend (Donde XX representa el numero de equipo).
+8. Todos los integrantes deberán firmar el modelo con Grease pencil.
+*Subir a classroom:
+Archivo PDF con cuatro vistas isométricas del modelo resultante.
+Modelo de blender.
